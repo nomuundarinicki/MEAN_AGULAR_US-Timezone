@@ -1,4 +1,13 @@
+<img src="timezone.jpg" alt="timezone">
+
+
+US Timezone Display
+Create an app which displays the current time based on the time-zone the user selects as shown below in the wireframe. The most recent button clicked should appear with a yellow background.
+
+Note: Don't worry about having the time-zone be accurate based on the user's physical location, assume your location to be the origin of all users using your app. As  a bonus, attempt to present the accurate time-zoned, regardless of where we run this application. This purpose of this assignment is to learn how to use the events, data binding, structural and attribute directives.
+
 # UsTimezone
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
